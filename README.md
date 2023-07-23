@@ -1,6 +1,7 @@
 
-# CREDIT_CARD_FRAUD
-###LEVEL A
+# CREDIT CARD FRAUD
+
+LEVEL A
 
 Using machine learning algorithms, predicting the instances of Credit Card Fraud. 
 
